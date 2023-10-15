@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @umardotwork
-- 👀 I’m interested to new techniligies
+- 👀 I’m interested to new technologies
 - 🌱 I’m currently learning Next JS
 - 💞️ I’m looking to collaborate on Open Source projects
 
